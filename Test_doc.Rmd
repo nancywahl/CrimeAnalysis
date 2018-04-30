@@ -1,0 +1,19 @@
+---
+title: "StatAnalysis"
+author: "Nancy Wahl"
+date: "April 30, 2018"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```
+```{r, echo = FALSE}
+V10 = 1:10
+W20 = 11:20
+RESULT = V10/W20
+RESULT
+```
+
+```
+
